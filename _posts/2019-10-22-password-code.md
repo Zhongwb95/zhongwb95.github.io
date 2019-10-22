@@ -1,8 +1,3 @@
-### Password
-```text
-2019-10-23 m1WuNQbrYWGNzFc3s__JdU12Ztr
-```
-
 ### Code
 ```python
 import hashlib
@@ -22,3 +17,5 @@ if __name__ == '__main__':
         new_string += lib_char[int(b)%len(lib_char)]
     print(new_string)
 ```
+### Password
+* [Custom 404 page]({{ site.url }}/other/data.json) to get you started.
