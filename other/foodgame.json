@@ -1,0 +1,51 @@
+{
+  "recipes":[
+  
+  ],
+  "chefs":[
+  
+  ],
+  "menu":{
+    "version":4,
+    "recipe":["0","4","12","13","16","17","19","20","27"],
+    "chef":["0","4","5","11","12","27"],
+    "equip":["0","4","5","6"],
+    "decoration":["1","5","6","7","8","11","13","14"],
+    "condiment":["0","4","5","6"],
+    "calChef":["specialSkill","ultimate"],
+    "calEquip":["rarity","skill"],
+    "calRecipe":["rank","rarity","skill","condiment"]
+  },
+  "setting":{"help":true,"expandbtn":true,"auto":true,"final":true,"mark":true,"pagelen":20},
+  "decorationEffect":0,
+  "activity":{
+    "stirfryPrice":"",
+	"bakePrice":"",
+	"steamPrice":"",
+	"boilPrice":"",
+	"fryPrice":"",
+	"knifePrice":"",
+	"sourPrice":"",
+	"sweetPrice":"",
+	"bitterPrice":"",
+	"spicyPrice":"",
+	"saltyPrice":"",
+	"tastyPrice":"",
+	"vegetablePrice":"",
+	"creationPrice":"",
+	"fishPrice":"",
+	"meatPrice":"",
+	"goldPrice":"",
+	"stirfry":"",
+	"bake":"",
+	"steam":"",
+	"boil":"",
+	"fry":"",
+	"knife":"",
+	"limit1":"",
+	"limit2":"",
+	"limit3":"",
+	"limit4":"",
+	"limit5":""
+  }
+}
