@@ -1,4 +1,6 @@
 ### Code
+
+生成随机符合条件的密码
 ```python
 import hashlib
 from string import *
